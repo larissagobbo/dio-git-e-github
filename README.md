@@ -9,9 +9,9 @@ Repositório para armazenamento de resumos referente ao curso Versionamento de c
 
 ## 💻 Resumo das Aulas:
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |------ |------ |
-| Gravando Alterações no repositório local | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python&tab=undefined&moduleId=undefined) |
+| Gravando Alterações no repositório local | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python&tab=undefined&moduleId=undefined) |
 
 ```
 git init 
